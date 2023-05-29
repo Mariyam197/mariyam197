@@ -2,6 +2,15 @@
 
 Я Мариам Казарян, тестировщик ПО.
 
+Изучила курс тестировщика в Нетологии. Умею писать код на Java, а также автотесты с использованием Selenide, изучила виды и уровни тестирования. Работаю с базами данных, умею писать SQL-запросы.
+
+## Мои контакты
+[CV](https://docs.google.com/document/d/1lsswC0bDCGcQnse8b3qdzPr41xSVfRe2vYg7Q8196E4/edit?usp=sharing)
+
+Email: kazaryanmariam674@gmail.com
+
+Telegram: @mariandranikovna
+
 ## Мои работы 
 
 * [**Дипломный проект по профессии «Тестировщик»**](https://github.com/Mariyam197/qa-diploma)
