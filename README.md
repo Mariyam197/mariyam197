@@ -5,7 +5,6 @@ I am Mariam Kazaryan, Software Testing Specialist.
 I graduated from the QA Specialist course in Netology. I studied the types and levels of testing, I can write code in Java and autotests using Selenide. I can work with databases and write SQL-requests.
 
 ## Contact
-[CV](https://docs.google.com/document/d/1dLvpmuRpzi4ZOZiiBPLzkiuhcxJE6SfiW7ieWlWifiM/edit?usp=sharing)
 
 Email: kazaryanmariam674@gmail.com
 
